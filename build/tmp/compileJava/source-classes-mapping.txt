@@ -1,2 +1,7 @@
 mocarim/mocarim/MiracomApplication.java
  mocarim.mocarim.MiracomApplication
+mocarim/mocarim/user/User.java
+ mocarim.mocarim.user.User
+ mocarim.mocarim.user.User$UserBuilder
+mocarim/mocarim/repository/UserRepository.java
+ mocarim.mocarim.repository.UserRepository
