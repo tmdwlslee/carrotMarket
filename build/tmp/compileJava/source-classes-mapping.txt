@@ -5,3 +5,9 @@ mocarim/mocarim/user/User.java
  mocarim.mocarim.user.User$UserBuilder
 mocarim/mocarim/repository/UserRepository.java
  mocarim.mocarim.repository.UserRepository
+mocarim/mocarim/service/UserService.java
+ mocarim.mocarim.service.UserService
+mocarim/mocarim/controller/UserController.java
+ mocarim.mocarim.controller.UserController
+mocarim/mocarim/config/auth/WebSecurityConfig.java
+ mocarim.mocarim.config.auth.WebSecurityConfig
